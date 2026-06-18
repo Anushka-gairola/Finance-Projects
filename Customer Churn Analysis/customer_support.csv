@@ -1,0 +1,769 @@
+ticket_id,customer_id,ticket_date,issue_type,resolution_days
+4001,1001,2024-05-10,Payment Failure,3
+4002,1001,2024-12-31,Technical Problem,1
+4003,1003,2023-04-12,Login Issue,3
+4004,1003,2022-03-29,Technical Problem,1
+4005,1004,2024-02-09,Technical Problem,2
+4006,1004,2024-08-13,Login Issue,1
+4007,1004,2023-04-05,Billing,2
+4008,1005,2024-01-18,Subscription Change,5
+4009,1007,2023-05-26,Technical Problem,2
+4010,1007,2023-12-01,Payment Failure,3
+4011,1008,2024-04-11,Technical Problem,1
+4012,1009,2023-10-09,Subscription Change,1
+4013,1009,2022-06-16,Billing,2
+4014,1010,2022-11-12,Billing,10
+4015,1010,2024-02-16,Login Issue,6
+4016,1010,2024-06-16,Subscription Change,8
+4017,1011,2023-05-24,Payment Failure,3
+4018,1011,2022-07-25,Technical Problem,1
+4019,1011,2024-10-22,Payment Failure,2
+4020,1012,2023-12-04,Login Issue,2
+4021,1013,2022-06-11,Payment Failure,6
+4022,1014,2022-09-27,Payment Failure,3
+4023,1015,2024-10-13,Payment Failure,2
+4024,1015,2023-12-21,Subscription Change,1
+4025,1015,2024-05-28,Login Issue,1
+4026,1016,2022-08-05,Login Issue,8
+4027,1016,2023-01-15,Payment Failure,9
+4028,1016,2022-01-15,Billing,9
+4029,1019,2023-10-10,Billing,7
+4030,1019,2023-08-16,Technical Problem,7
+4031,1020,2023-01-14,Billing,1
+4032,1020,2022-08-19,Login Issue,2
+4033,1022,2024-02-19,Billing,2
+4034,1022,2024-12-07,Billing,3
+4035,1022,2022-04-09,Subscription Change,2
+4036,1023,2024-08-18,Technical Problem,3
+4037,1023,2023-10-05,Subscription Change,1
+4038,1025,2023-01-28,Technical Problem,3
+4039,1026,2024-06-10,Login Issue,9
+4040,1026,2024-05-13,Technical Problem,5
+4041,1027,2022-04-06,Subscription Change,2
+4042,1027,2022-08-19,Subscription Change,1
+4043,1027,2023-06-25,Technical Problem,1
+4044,1028,2023-08-01,Technical Problem,6
+4045,1028,2024-10-09,Subscription Change,10
+4046,1028,2024-11-17,Payment Failure,8
+4047,1029,2022-07-09,Payment Failure,1
+4048,1029,2023-09-25,Billing,1
+4049,1029,2023-12-11,Billing,3
+4050,1031,2023-11-15,Subscription Change,3
+4051,1032,2023-03-18,Billing,8
+4052,1032,2024-08-09,Payment Failure,5
+4053,1033,2022-01-02,Billing,6
+4054,1033,2024-05-04,Payment Failure,9
+4055,1034,2023-01-20,Billing,3
+4056,1034,2024-12-12,Login Issue,2
+4057,1034,2022-07-22,Payment Failure,3
+4058,1036,2024-06-02,Subscription Change,6
+4059,1036,2024-01-22,Technical Problem,5
+4060,1038,2023-04-09,Technical Problem,1
+4061,1038,2023-10-22,Technical Problem,3
+4062,1038,2023-02-07,Payment Failure,2
+4063,1039,2024-05-13,Technical Problem,3
+4064,1039,2023-05-04,Payment Failure,1
+4065,1040,2024-05-21,Login Issue,1
+4066,1040,2023-04-18,Technical Problem,2
+4067,1040,2022-09-20,Login Issue,2
+4068,1041,2024-05-30,Billing,2
+4069,1041,2022-09-11,Billing,1
+4070,1041,2024-10-11,Subscription Change,1
+4071,1043,2024-03-26,Technical Problem,3
+4072,1043,2022-06-01,Payment Failure,2
+4073,1044,2023-09-20,Billing,3
+4074,1044,2022-04-14,Billing,2
+4075,1044,2023-05-25,Technical Problem,1
+4076,1045,2024-07-02,Billing,2
+4077,1045,2024-04-01,Login Issue,3
+4078,1046,2022-06-10,Subscription Change,1
+4079,1046,2024-03-26,Subscription Change,3
+4080,1046,2023-02-05,Technical Problem,1
+4081,1047,2024-08-12,Payment Failure,3
+4082,1047,2023-07-17,Subscription Change,2
+4083,1047,2022-01-27,Technical Problem,2
+4084,1049,2022-10-11,Billing,3
+4085,1050,2023-03-29,Billing,1
+4086,1050,2023-07-01,Technical Problem,1
+4087,1050,2022-06-07,Billing,1
+4088,1051,2023-06-02,Subscription Change,3
+4089,1052,2024-11-26,Billing,1
+4090,1052,2022-10-29,Billing,1
+4091,1052,2023-12-01,Technical Problem,1
+4092,1053,2024-09-07,Subscription Change,3
+4093,1053,2022-05-08,Billing,2
+4094,1053,2023-07-20,Billing,2
+4095,1054,2024-05-03,Login Issue,3
+4096,1054,2022-06-04,Login Issue,2
+4097,1055,2024-02-24,Login Issue,1
+4098,1057,2024-01-29,Subscription Change,2
+4099,1057,2024-07-09,Technical Problem,1
+4100,1058,2024-06-21,Login Issue,1
+4101,1058,2023-11-16,Payment Failure,1
+4102,1058,2023-04-16,Payment Failure,3
+4103,1059,2024-04-13,Login Issue,3
+4104,1059,2023-07-29,Technical Problem,2
+4105,1059,2022-05-30,Subscription Change,2
+4106,1060,2023-11-13,Billing,10
+4107,1061,2023-03-20,Technical Problem,1
+4108,1061,2022-09-21,Billing,1
+4109,1062,2022-01-05,Payment Failure,8
+4110,1062,2024-09-18,Subscription Change,8
+4111,1062,2024-04-02,Technical Problem,8
+4112,1063,2023-01-05,Subscription Change,8
+4113,1063,2023-10-19,Login Issue,7
+4114,1063,2024-12-17,Payment Failure,6
+4115,1065,2024-03-01,Subscription Change,3
+4116,1067,2024-12-17,Subscription Change,6
+4117,1067,2024-03-12,Billing,10
+4118,1067,2023-05-03,Billing,9
+4119,1070,2023-12-05,Subscription Change,3
+4120,1070,2024-02-29,Subscription Change,1
+4121,1070,2022-06-03,Technical Problem,3
+4122,1072,2024-12-28,Billing,5
+4123,1073,2023-03-29,Payment Failure,8
+4124,1074,2023-04-19,Login Issue,1
+4125,1074,2022-12-23,Payment Failure,3
+4126,1074,2023-06-06,Login Issue,2
+4127,1076,2024-02-01,Login Issue,7
+4128,1076,2024-02-08,Login Issue,9
+4129,1076,2023-05-31,Subscription Change,6
+4130,1078,2024-05-01,Technical Problem,8
+4131,1078,2023-01-15,Login Issue,5
+4132,1078,2024-08-14,Billing,7
+4133,1079,2024-12-02,Subscription Change,1
+4134,1079,2022-01-12,Subscription Change,3
+4135,1080,2023-05-14,Login Issue,2
+4136,1081,2022-03-31,Billing,9
+4137,1081,2024-08-27,Login Issue,6
+4138,1082,2022-04-25,Login Issue,1
+4139,1083,2024-04-05,Payment Failure,1
+4140,1083,2023-02-17,Login Issue,1
+4141,1087,2023-04-02,Login Issue,3
+4142,1087,2024-09-04,Billing,1
+4143,1087,2022-10-06,Subscription Change,1
+4144,1088,2022-03-03,Billing,1
+4145,1088,2023-11-30,Subscription Change,3
+4146,1090,2023-03-21,Payment Failure,1
+4147,1090,2022-03-17,Technical Problem,1
+4148,1090,2023-12-19,Payment Failure,3
+4149,1091,2024-04-30,Payment Failure,2
+4150,1091,2024-12-28,Subscription Change,3
+4151,1091,2024-11-14,Payment Failure,3
+4152,1093,2023-07-23,Subscription Change,3
+4153,1093,2024-12-01,Subscription Change,2
+4154,1093,2024-01-03,Login Issue,3
+4155,1094,2024-01-21,Login Issue,8
+4156,1094,2024-08-11,Billing,8
+4157,1097,2022-06-19,Subscription Change,1
+4158,1098,2023-09-26,Technical Problem,2
+4159,1102,2023-05-15,Technical Problem,5
+4160,1103,2024-12-29,Billing,3
+4161,1103,2023-03-21,Technical Problem,2
+4162,1104,2023-12-15,Technical Problem,6
+4163,1104,2022-02-08,Technical Problem,10
+4164,1105,2023-10-15,Subscription Change,2
+4165,1105,2024-12-17,Payment Failure,1
+4166,1106,2024-10-21,Billing,3
+4167,1106,2022-12-14,Subscription Change,2
+4168,1108,2024-04-03,Payment Failure,1
+4169,1108,2022-05-14,Subscription Change,2
+4170,1109,2023-11-03,Subscription Change,9
+4171,1109,2024-03-25,Subscription Change,9
+4172,1109,2022-07-22,Subscription Change,8
+4173,1111,2022-02-16,Technical Problem,1
+4174,1111,2023-10-18,Billing,3
+4175,1111,2024-08-28,Billing,2
+4176,1112,2023-10-30,Payment Failure,1
+4177,1112,2023-11-07,Login Issue,2
+4178,1112,2023-06-24,Login Issue,1
+4179,1114,2023-05-17,Technical Problem,5
+4180,1114,2024-07-17,Billing,9
+4181,1114,2023-04-06,Payment Failure,8
+4182,1115,2024-06-27,Subscription Change,2
+4183,1115,2023-01-25,Technical Problem,2
+4184,1115,2022-09-13,Technical Problem,1
+4185,1116,2023-03-26,Billing,2
+4186,1116,2024-05-26,Login Issue,1
+4187,1117,2023-01-09,Billing,1
+4188,1117,2022-08-12,Login Issue,3
+4189,1119,2022-03-04,Subscription Change,1
+4190,1119,2024-03-05,Technical Problem,1
+4191,1122,2023-05-26,Billing,1
+4192,1124,2023-12-10,Payment Failure,3
+4193,1124,2024-02-10,Subscription Change,1
+4194,1124,2023-11-08,Subscription Change,2
+4195,1125,2023-04-02,Technical Problem,2
+4196,1127,2023-12-18,Subscription Change,2
+4197,1127,2024-05-30,Billing,2
+4198,1128,2022-09-07,Login Issue,2
+4199,1128,2022-09-25,Technical Problem,1
+4200,1128,2023-01-24,Payment Failure,2
+4201,1129,2023-02-05,Technical Problem,9
+4202,1131,2022-03-16,Login Issue,3
+4203,1132,2024-01-08,Payment Failure,10
+4204,1132,2022-04-08,Login Issue,6
+4205,1133,2023-03-11,Technical Problem,3
+4206,1134,2022-09-06,Payment Failure,2
+4207,1136,2023-06-26,Payment Failure,6
+4208,1136,2022-03-22,Technical Problem,9
+4209,1136,2024-06-18,Subscription Change,6
+4210,1137,2024-02-24,Billing,8
+4211,1137,2024-09-10,Payment Failure,9
+4212,1137,2022-02-22,Login Issue,6
+4213,1139,2022-02-12,Technical Problem,3
+4214,1140,2024-04-27,Billing,3
+4215,1140,2024-06-18,Technical Problem,1
+4216,1141,2023-10-29,Technical Problem,1
+4217,1141,2022-03-02,Login Issue,2
+4218,1142,2024-10-25,Technical Problem,2
+4219,1142,2023-11-13,Payment Failure,1
+4220,1143,2024-04-17,Subscription Change,1
+4221,1146,2024-12-05,Login Issue,2
+4222,1146,2024-03-04,Billing,1
+4223,1146,2022-08-02,Billing,3
+4224,1147,2024-04-10,Technical Problem,1
+4225,1147,2024-11-15,Billing,1
+4226,1147,2023-12-20,Billing,3
+4227,1148,2022-01-28,Login Issue,3
+4228,1148,2022-12-31,Login Issue,2
+4229,1149,2024-06-01,Technical Problem,3
+4230,1150,2024-03-16,Technical Problem,3
+4231,1150,2024-11-04,Technical Problem,1
+4232,1151,2022-01-28,Subscription Change,2
+4233,1151,2022-03-27,Billing,2
+4234,1152,2023-06-21,Payment Failure,5
+4235,1154,2022-03-08,Billing,1
+4236,1154,2022-04-21,Subscription Change,3
+4237,1154,2023-09-15,Login Issue,1
+4238,1155,2023-03-01,Technical Problem,1
+4239,1155,2022-11-11,Payment Failure,1
+4240,1155,2023-10-24,Subscription Change,1
+4241,1156,2024-04-22,Payment Failure,10
+4242,1157,2024-01-29,Billing,7
+4243,1158,2023-07-02,Subscription Change,3
+4244,1158,2023-04-13,Login Issue,3
+4245,1159,2023-05-19,Billing,2
+4246,1159,2023-07-28,Technical Problem,1
+4247,1159,2024-04-26,Login Issue,3
+4248,1160,2022-06-22,Login Issue,1
+4249,1160,2024-04-15,Login Issue,3
+4250,1160,2022-08-13,Payment Failure,1
+4251,1161,2022-03-31,Billing,2
+4252,1161,2022-05-19,Subscription Change,3
+4253,1161,2024-04-24,Payment Failure,3
+4254,1162,2024-06-20,Billing,2
+4255,1162,2022-09-18,Login Issue,3
+4256,1163,2024-06-16,Payment Failure,1
+4257,1164,2022-11-17,Login Issue,9
+4258,1164,2024-02-24,Billing,5
+4259,1164,2024-06-29,Technical Problem,10
+4260,1165,2022-11-14,Technical Problem,2
+4261,1165,2023-01-11,Subscription Change,3
+4262,1167,2023-05-28,Payment Failure,2
+4263,1168,2024-05-22,Subscription Change,9
+4264,1168,2024-03-08,Payment Failure,7
+4265,1168,2022-01-05,Subscription Change,7
+4266,1169,2023-07-28,Login Issue,1
+4267,1169,2024-12-01,Subscription Change,1
+4268,1170,2023-02-26,Technical Problem,1
+4269,1171,2023-10-27,Billing,1
+4270,1171,2024-10-03,Billing,3
+4271,1172,2022-04-14,Subscription Change,3
+4272,1173,2022-07-17,Technical Problem,2
+4273,1173,2023-01-26,Technical Problem,3
+4274,1174,2024-11-04,Login Issue,3
+4275,1174,2023-04-23,Subscription Change,3
+4276,1174,2023-02-24,Technical Problem,1
+4277,1175,2024-10-17,Billing,9
+4278,1176,2022-07-15,Billing,2
+4279,1176,2023-06-01,Login Issue,3
+4280,1177,2024-03-16,Billing,1
+4281,1178,2022-08-04,Payment Failure,8
+4282,1178,2022-02-16,Subscription Change,8
+4283,1179,2022-05-10,Subscription Change,3
+4284,1179,2024-01-25,Technical Problem,2
+4285,1179,2022-03-10,Technical Problem,3
+4286,1180,2024-05-21,Login Issue,2
+4287,1181,2022-10-29,Login Issue,7
+4288,1182,2022-05-21,Login Issue,2
+4289,1182,2024-09-11,Login Issue,1
+4290,1182,2023-11-14,Payment Failure,1
+4291,1183,2022-05-07,Subscription Change,2
+4292,1183,2023-08-27,Billing,3
+4293,1183,2024-10-10,Login Issue,3
+4294,1185,2024-02-18,Billing,5
+4295,1186,2023-02-24,Subscription Change,10
+4296,1187,2024-10-21,Billing,10
+4297,1187,2024-07-24,Technical Problem,9
+4298,1188,2022-07-21,Billing,1
+4299,1188,2024-07-25,Subscription Change,3
+4300,1189,2023-06-21,Payment Failure,2
+4301,1189,2023-01-21,Technical Problem,3
+4302,1190,2023-02-22,Technical Problem,3
+4303,1192,2024-08-12,Technical Problem,8
+4304,1192,2023-10-26,Technical Problem,5
+4305,1192,2023-12-11,Payment Failure,9
+4306,1193,2022-06-26,Billing,9
+4307,1193,2023-10-24,Technical Problem,6
+4308,1193,2024-12-08,Payment Failure,5
+4309,1194,2023-11-20,Billing,2
+4310,1194,2024-12-22,Payment Failure,1
+4311,1194,2022-11-23,Billing,1
+4312,1195,2024-09-16,Subscription Change,3
+4313,1195,2024-08-09,Technical Problem,3
+4314,1195,2023-03-05,Subscription Change,1
+4315,1196,2022-01-18,Technical Problem,1
+4316,1197,2024-10-06,Technical Problem,2
+4317,1198,2022-04-24,Payment Failure,2
+4318,1199,2024-04-10,Technical Problem,1
+4319,1200,2022-02-24,Subscription Change,3
+4320,1200,2024-03-10,Technical Problem,2
+4321,1200,2022-06-11,Login Issue,1
+4322,1201,2024-10-28,Payment Failure,1
+4323,1201,2024-01-29,Billing,3
+4324,1202,2022-11-24,Technical Problem,2
+4325,1202,2023-08-02,Billing,3
+4326,1202,2024-10-03,Billing,2
+4327,1203,2023-03-28,Technical Problem,8
+4328,1203,2022-07-01,Subscription Change,9
+4329,1204,2022-01-07,Login Issue,2
+4330,1205,2022-05-31,Billing,1
+4331,1205,2024-07-03,Technical Problem,1
+4332,1206,2023-05-29,Login Issue,5
+4333,1206,2024-01-16,Subscription Change,6
+4334,1206,2023-04-16,Technical Problem,8
+4335,1207,2024-03-15,Subscription Change,2
+4336,1207,2024-12-12,Billing,3
+4337,1207,2024-05-03,Payment Failure,1
+4338,1208,2022-05-08,Technical Problem,1
+4339,1209,2023-06-10,Technical Problem,1
+4340,1210,2022-08-25,Login Issue,1
+4341,1210,2023-05-09,Billing,2
+4342,1210,2022-01-29,Login Issue,1
+4343,1211,2022-03-16,Subscription Change,10
+4344,1212,2022-02-11,Subscription Change,1
+4345,1213,2024-11-06,Login Issue,1
+4346,1215,2023-08-11,Login Issue,3
+4347,1217,2022-01-27,Subscription Change,1
+4348,1218,2022-06-17,Technical Problem,2
+4349,1218,2024-03-31,Payment Failure,3
+4350,1219,2024-07-10,Subscription Change,9
+4351,1220,2022-05-10,Login Issue,2
+4352,1220,2024-03-29,Technical Problem,1
+4353,1220,2024-03-04,Payment Failure,1
+4354,1222,2023-11-07,Technical Problem,1
+4355,1222,2024-03-17,Technical Problem,3
+4356,1223,2022-02-24,Login Issue,3
+4357,1224,2024-01-21,Subscription Change,8
+4358,1224,2024-08-15,Technical Problem,7
+4359,1224,2023-04-27,Subscription Change,5
+4360,1225,2022-03-14,Login Issue,1
+4361,1226,2022-03-02,Billing,3
+4362,1226,2022-01-25,Login Issue,3
+4363,1226,2022-05-11,Technical Problem,2
+4364,1228,2022-04-12,Payment Failure,6
+4365,1228,2022-10-02,Payment Failure,9
+4366,1228,2024-03-27,Payment Failure,9
+4367,1230,2022-01-12,Billing,10
+4368,1231,2023-10-23,Technical Problem,1
+4369,1231,2023-01-09,Subscription Change,2
+4370,1231,2023-04-11,Billing,1
+4371,1232,2023-05-04,Technical Problem,9
+4372,1232,2022-02-16,Login Issue,6
+4373,1232,2024-09-07,Billing,10
+4374,1233,2022-05-17,Subscription Change,3
+4375,1234,2024-04-06,Login Issue,3
+4376,1234,2023-08-17,Subscription Change,3
+4377,1234,2024-07-23,Payment Failure,3
+4378,1235,2023-09-07,Technical Problem,1
+4379,1236,2023-09-12,Technical Problem,8
+4380,1238,2024-03-15,Technical Problem,3
+4381,1239,2022-07-02,Login Issue,3
+4382,1239,2022-02-08,Payment Failure,3
+4383,1239,2024-09-08,Billing,1
+4384,1241,2022-01-16,Billing,1
+4385,1242,2024-06-12,Payment Failure,6
+4386,1243,2023-06-30,Technical Problem,2
+4387,1243,2024-01-29,Technical Problem,1
+4388,1245,2024-11-28,Technical Problem,2
+4389,1246,2024-08-15,Subscription Change,1
+4390,1246,2022-11-14,Subscription Change,1
+4391,1246,2023-11-28,Payment Failure,3
+4392,1248,2022-12-06,Billing,9
+4393,1250,2022-01-03,Billing,1
+4394,1251,2022-11-20,Login Issue,6
+4395,1252,2023-03-08,Subscription Change,1
+4396,1254,2023-02-03,Billing,1
+4397,1256,2022-07-06,Payment Failure,2
+4398,1256,2022-03-02,Subscription Change,1
+4399,1256,2023-12-11,Technical Problem,3
+4400,1257,2024-12-21,Technical Problem,9
+4401,1257,2023-07-18,Login Issue,8
+4402,1257,2024-06-03,Technical Problem,7
+4403,1259,2022-08-14,Login Issue,1
+4404,1260,2024-01-23,Billing,2
+4405,1261,2022-02-23,Subscription Change,3
+4406,1261,2024-11-09,Billing,2
+4407,1264,2023-02-23,Login Issue,2
+4408,1264,2022-03-03,Login Issue,1
+4409,1265,2022-06-09,Technical Problem,3
+4410,1265,2024-06-11,Subscription Change,3
+4411,1265,2022-11-25,Billing,2
+4412,1267,2024-08-09,Technical Problem,7
+4413,1268,2024-07-09,Payment Failure,2
+4414,1268,2022-06-19,Payment Failure,1
+4415,1269,2024-08-12,Billing,6
+4416,1269,2024-09-01,Payment Failure,10
+4417,1270,2024-07-02,Technical Problem,2
+4418,1270,2024-08-30,Subscription Change,1
+4419,1270,2023-08-16,Subscription Change,2
+4420,1271,2022-08-12,Subscription Change,2
+4421,1271,2022-04-25,Subscription Change,2
+4422,1271,2024-11-29,Technical Problem,2
+4423,1272,2022-08-04,Technical Problem,7
+4424,1272,2022-12-19,Payment Failure,7
+4425,1272,2024-03-26,Technical Problem,5
+4426,1274,2022-12-22,Subscription Change,3
+4427,1274,2023-02-26,Technical Problem,3
+4428,1276,2024-04-05,Subscription Change,1
+4429,1276,2024-11-20,Technical Problem,3
+4430,1277,2023-11-03,Login Issue,7
+4431,1279,2022-12-22,Login Issue,2
+4432,1280,2022-10-22,Subscription Change,2
+4433,1281,2024-12-05,Subscription Change,3
+4434,1281,2022-01-17,Billing,3
+4435,1281,2023-12-01,Login Issue,1
+4436,1282,2023-02-18,Technical Problem,6
+4437,1282,2024-09-20,Billing,8
+4438,1283,2024-09-15,Subscription Change,2
+4439,1283,2024-07-04,Payment Failure,2
+4440,1283,2024-01-01,Payment Failure,1
+4441,1284,2024-06-04,Billing,1
+4442,1284,2022-07-29,Login Issue,2
+4443,1284,2023-12-17,Subscription Change,3
+4444,1285,2023-01-16,Payment Failure,8
+4445,1285,2024-06-25,Subscription Change,5
+4446,1286,2023-04-04,Technical Problem,6
+4447,1287,2024-01-08,Login Issue,1
+4448,1287,2023-02-01,Payment Failure,1
+4449,1288,2022-06-06,Subscription Change,3
+4450,1288,2024-08-31,Payment Failure,2
+4451,1289,2024-04-28,Technical Problem,2
+4452,1289,2024-09-15,Payment Failure,1
+4453,1290,2022-03-25,Subscription Change,10
+4454,1290,2023-07-24,Technical Problem,8
+4455,1291,2024-10-05,Login Issue,1
+4456,1292,2023-05-07,Payment Failure,3
+4457,1292,2023-03-06,Payment Failure,1
+4458,1292,2023-06-04,Billing,3
+4459,1293,2022-07-18,Login Issue,3
+4460,1293,2024-08-17,Subscription Change,1
+4461,1294,2023-01-13,Payment Failure,3
+4462,1294,2023-06-11,Payment Failure,1
+4463,1294,2023-06-05,Billing,2
+4464,1295,2024-08-13,Billing,10
+4465,1295,2022-04-27,Subscription Change,6
+4466,1295,2024-12-23,Technical Problem,9
+4467,1297,2022-10-01,Subscription Change,10
+4468,1297,2023-08-30,Login Issue,10
+4469,1297,2023-12-30,Technical Problem,5
+4470,1298,2024-02-18,Billing,10
+4471,1298,2023-02-05,Technical Problem,8
+4472,1298,2024-12-05,Billing,10
+4473,1299,2023-11-04,Payment Failure,2
+4474,1300,2022-01-02,Login Issue,1
+4475,1300,2023-08-12,Billing,2
+4476,1300,2024-05-20,Login Issue,2
+4477,1301,2022-05-23,Login Issue,2
+4478,1302,2022-11-13,Payment Failure,7
+4479,1303,2024-02-13,Billing,1
+4480,1303,2023-12-17,Billing,2
+4481,1304,2022-04-21,Payment Failure,3
+4482,1304,2022-07-27,Technical Problem,2
+4483,1304,2022-01-22,Login Issue,2
+4484,1305,2024-03-19,Technical Problem,2
+4485,1305,2024-09-04,Technical Problem,2
+4486,1306,2024-06-27,Payment Failure,1
+4487,1306,2022-05-02,Subscription Change,3
+4488,1306,2023-11-16,Payment Failure,1
+4489,1307,2023-11-26,Subscription Change,3
+4490,1307,2024-07-02,Payment Failure,3
+4491,1308,2022-11-08,Subscription Change,1
+4492,1309,2024-07-12,Technical Problem,2
+4493,1309,2022-02-04,Technical Problem,1
+4494,1311,2024-06-21,Billing,1
+4495,1312,2022-06-08,Subscription Change,2
+4496,1314,2024-03-15,Payment Failure,2
+4497,1314,2024-08-13,Payment Failure,2
+4498,1314,2024-08-04,Billing,1
+4499,1315,2024-05-15,Login Issue,2
+4500,1315,2024-07-20,Login Issue,2
+4501,1315,2024-01-25,Login Issue,3
+4502,1316,2023-06-14,Subscription Change,1
+4503,1317,2024-05-16,Billing,2
+4504,1317,2024-01-22,Payment Failure,2
+4505,1318,2024-07-28,Login Issue,2
+4506,1318,2023-01-10,Login Issue,1
+4507,1320,2023-07-07,Subscription Change,2
+4508,1321,2023-01-16,Payment Failure,10
+4509,1322,2022-05-10,Billing,3
+4510,1322,2024-06-09,Billing,1
+4511,1322,2022-01-28,Billing,2
+4512,1323,2022-09-18,Subscription Change,3
+4513,1323,2023-04-05,Billing,1
+4514,1324,2024-10-30,Technical Problem,3
+4515,1324,2024-04-23,Login Issue,2
+4516,1328,2024-08-29,Technical Problem,1
+4517,1328,2023-07-30,Billing,2
+4518,1328,2023-11-18,Payment Failure,1
+4519,1329,2022-11-01,Subscription Change,1
+4520,1329,2022-06-05,Payment Failure,3
+4521,1329,2024-08-14,Payment Failure,2
+4522,1330,2024-08-26,Login Issue,9
+4523,1331,2024-03-07,Login Issue,1
+4524,1331,2022-07-17,Technical Problem,1
+4525,1331,2024-12-18,Subscription Change,1
+4526,1334,2023-05-05,Payment Failure,1
+4527,1334,2022-05-06,Login Issue,2
+4528,1336,2024-11-28,Subscription Change,3
+4529,1337,2024-07-07,Technical Problem,8
+4530,1337,2022-05-31,Payment Failure,10
+4531,1337,2022-11-04,Subscription Change,6
+4532,1338,2023-01-10,Payment Failure,2
+4533,1341,2023-06-01,Subscription Change,3
+4534,1341,2022-11-07,Login Issue,3
+4535,1342,2022-04-24,Technical Problem,2
+4536,1344,2023-08-11,Billing,7
+4537,1345,2024-03-24,Billing,1
+4538,1345,2024-12-12,Billing,1
+4539,1345,2024-10-06,Billing,2
+4540,1346,2023-11-19,Billing,1
+4541,1346,2023-08-12,Billing,3
+4542,1348,2023-05-09,Payment Failure,2
+4543,1348,2023-02-01,Technical Problem,1
+4544,1349,2024-04-01,Technical Problem,5
+4545,1349,2024-12-24,Subscription Change,8
+4546,1350,2024-04-07,Subscription Change,9
+4547,1354,2022-10-18,Billing,2
+4548,1354,2024-05-16,Login Issue,2
+4549,1354,2024-08-19,Login Issue,2
+4550,1356,2022-11-24,Subscription Change,2
+4551,1356,2023-09-21,Payment Failure,1
+4552,1357,2022-01-12,Billing,9
+4553,1358,2024-09-01,Subscription Change,3
+4554,1359,2022-12-30,Login Issue,3
+4555,1359,2024-10-01,Technical Problem,1
+4556,1360,2024-10-11,Technical Problem,3
+4557,1360,2023-02-03,Subscription Change,1
+4558,1361,2022-02-20,Technical Problem,3
+4559,1361,2024-02-28,Payment Failure,1
+4560,1361,2024-08-21,Technical Problem,1
+4561,1362,2024-01-21,Technical Problem,3
+4562,1362,2023-11-01,Login Issue,2
+4563,1362,2023-08-12,Login Issue,2
+4564,1364,2024-11-28,Technical Problem,9
+4565,1365,2023-03-21,Billing,2
+4566,1365,2023-07-13,Payment Failure,3
+4567,1367,2023-12-27,Subscription Change,8
+4568,1367,2024-11-15,Billing,5
+4569,1368,2024-09-10,Login Issue,2
+4570,1368,2023-11-13,Billing,1
+4571,1369,2022-02-19,Technical Problem,3
+4572,1370,2024-05-06,Payment Failure,6
+4573,1370,2024-09-19,Technical Problem,6
+4574,1370,2023-11-18,Subscription Change,5
+4575,1371,2023-11-04,Payment Failure,3
+4576,1371,2023-10-24,Subscription Change,1
+4577,1372,2024-09-14,Technical Problem,3
+4578,1372,2023-10-12,Technical Problem,1
+4579,1373,2023-05-24,Subscription Change,1
+4580,1374,2024-02-09,Billing,3
+4581,1375,2023-09-29,Subscription Change,3
+4582,1375,2023-04-04,Billing,3
+4583,1376,2022-10-29,Payment Failure,3
+4584,1376,2023-07-08,Payment Failure,3
+4585,1376,2024-10-02,Subscription Change,1
+4586,1378,2022-03-14,Technical Problem,1
+4587,1378,2024-12-29,Technical Problem,1
+4588,1378,2023-07-15,Payment Failure,2
+4589,1379,2023-03-04,Subscription Change,7
+4590,1379,2024-02-15,Subscription Change,10
+4591,1379,2022-03-08,Login Issue,10
+4592,1380,2022-02-27,Subscription Change,7
+4593,1380,2023-12-28,Login Issue,8
+4594,1380,2023-09-06,Login Issue,5
+4595,1381,2022-04-26,Login Issue,2
+4596,1381,2023-03-29,Payment Failure,1
+4597,1383,2022-11-07,Billing,2
+4598,1383,2022-02-24,Billing,1
+4599,1384,2024-09-06,Payment Failure,3
+4600,1384,2022-12-14,Subscription Change,3
+4601,1384,2022-12-30,Subscription Change,1
+4602,1386,2023-02-10,Subscription Change,2
+4603,1387,2024-10-09,Billing,2
+4604,1387,2024-01-08,Payment Failure,1
+4605,1387,2023-04-26,Payment Failure,3
+4606,1388,2022-12-27,Subscription Change,1
+4607,1389,2024-01-31,Technical Problem,1
+4608,1391,2022-11-07,Technical Problem,2
+4609,1391,2023-02-10,Technical Problem,3
+4610,1392,2022-09-01,Payment Failure,6
+4611,1392,2023-07-15,Payment Failure,6
+4612,1393,2022-05-14,Login Issue,7
+4613,1394,2022-03-14,Payment Failure,3
+4614,1394,2023-08-01,Subscription Change,3
+4615,1394,2024-07-19,Login Issue,2
+4616,1395,2022-09-23,Payment Failure,1
+4617,1396,2022-09-10,Billing,2
+4618,1398,2022-12-02,Billing,2
+4619,1398,2024-06-17,Subscription Change,3
+4620,1398,2024-06-20,Billing,1
+4621,1401,2024-09-20,Subscription Change,1
+4622,1402,2024-11-01,Payment Failure,1
+4623,1402,2024-09-15,Payment Failure,3
+4624,1403,2022-02-12,Subscription Change,2
+4625,1404,2023-10-25,Payment Failure,3
+4626,1405,2024-02-17,Technical Problem,5
+4627,1405,2023-01-17,Login Issue,7
+4628,1406,2024-12-15,Subscription Change,3
+4629,1408,2022-05-29,Technical Problem,1
+4630,1408,2022-07-09,Payment Failure,2
+4631,1409,2023-09-01,Payment Failure,3
+4632,1409,2022-04-11,Billing,3
+4633,1410,2024-03-30,Payment Failure,8
+4634,1410,2023-02-26,Payment Failure,6
+4635,1410,2024-02-07,Subscription Change,9
+4636,1411,2022-04-02,Technical Problem,2
+4637,1411,2023-08-21,Subscription Change,1
+4638,1412,2023-02-09,Login Issue,10
+4639,1413,2023-10-12,Subscription Change,3
+4640,1414,2022-03-06,Subscription Change,9
+4641,1416,2023-05-08,Login Issue,1
+4642,1418,2022-06-22,Subscription Change,1
+4643,1419,2023-12-01,Billing,3
+4644,1419,2022-11-04,Subscription Change,3
+4645,1421,2023-06-30,Payment Failure,8
+4646,1422,2023-08-17,Payment Failure,3
+4647,1422,2023-07-08,Billing,1
+4648,1422,2023-02-01,Login Issue,1
+4649,1424,2023-01-28,Billing,1
+4650,1424,2023-07-26,Billing,1
+4651,1424,2024-10-30,Billing,2
+4652,1425,2022-08-20,Payment Failure,1
+4653,1426,2024-01-29,Technical Problem,2
+4654,1426,2023-12-27,Technical Problem,1
+4655,1426,2024-08-13,Billing,3
+4656,1427,2023-04-12,Subscription Change,9
+4657,1427,2023-03-25,Payment Failure,9
+4658,1427,2022-03-28,Subscription Change,7
+4659,1430,2023-10-26,Technical Problem,1
+4660,1430,2022-05-28,Subscription Change,1
+4661,1431,2023-01-01,Login Issue,3
+4662,1431,2023-02-03,Payment Failure,3
+4663,1431,2023-06-24,Technical Problem,3
+4664,1432,2024-02-12,Login Issue,10
+4665,1432,2024-09-18,Login Issue,8
+4666,1434,2022-11-25,Billing,2
+4667,1434,2024-08-20,Login Issue,1
+4668,1435,2022-06-18,Payment Failure,1
+4669,1435,2022-04-29,Login Issue,2
+4670,1435,2022-05-29,Login Issue,3
+4671,1436,2023-01-09,Login Issue,1
+4672,1436,2022-06-09,Subscription Change,3
+4673,1436,2023-06-07,Payment Failure,2
+4674,1437,2024-07-24,Billing,2
+4675,1437,2023-05-03,Billing,3
+4676,1438,2024-09-11,Payment Failure,2
+4677,1439,2023-02-18,Payment Failure,1
+4678,1440,2023-11-17,Technical Problem,1
+4679,1440,2022-05-02,Subscription Change,2
+4680,1440,2024-02-19,Billing,1
+4681,1441,2022-05-29,Login Issue,1
+4682,1441,2022-10-29,Subscription Change,2
+4683,1442,2022-07-22,Payment Failure,2
+4684,1442,2023-06-18,Technical Problem,1
+4685,1444,2023-06-25,Login Issue,1
+4686,1445,2022-10-10,Payment Failure,2
+4687,1445,2022-03-29,Technical Problem,1
+4688,1446,2023-02-25,Technical Problem,9
+4689,1448,2023-12-04,Technical Problem,2
+4690,1448,2022-01-23,Technical Problem,1
+4691,1448,2022-05-16,Payment Failure,2
+4692,1449,2023-05-30,Billing,1
+4693,1450,2024-05-23,Technical Problem,2
+4694,1450,2023-04-18,Technical Problem,2
+4695,1450,2022-10-29,Subscription Change,3
+4696,1451,2024-12-25,Technical Problem,1
+4697,1451,2023-05-15,Subscription Change,2
+4698,1452,2022-11-10,Login Issue,2
+4699,1453,2024-11-03,Billing,1
+4700,1453,2024-11-09,Login Issue,3
+4701,1453,2024-10-11,Technical Problem,2
+4702,1454,2023-11-29,Technical Problem,3
+4703,1454,2024-11-09,Subscription Change,2
+4704,1454,2024-04-01,Technical Problem,3
+4705,1456,2022-07-07,Payment Failure,5
+4706,1458,2023-08-06,Billing,1
+4707,1458,2022-12-02,Technical Problem,2
+4708,1458,2024-06-18,Payment Failure,2
+4709,1459,2023-08-17,Login Issue,7
+4710,1459,2022-03-01,Payment Failure,7
+4711,1459,2022-07-30,Billing,10
+4712,1460,2023-06-26,Subscription Change,2
+4713,1460,2024-07-15,Subscription Change,3
+4714,1460,2024-01-10,Subscription Change,2
+4715,1461,2023-04-26,Billing,2
+4716,1461,2024-02-02,Payment Failure,3
+4717,1462,2024-10-16,Technical Problem,2
+4718,1462,2022-06-10,Subscription Change,1
+4719,1463,2023-10-22,Payment Failure,3
+4720,1464,2022-03-16,Payment Failure,3
+4721,1464,2023-08-25,Billing,1
+4722,1466,2022-05-18,Subscription Change,2
+4723,1466,2024-08-30,Technical Problem,3
+4724,1466,2022-09-11,Billing,2
+4725,1468,2023-07-17,Billing,1
+4726,1469,2023-07-01,Login Issue,2
+4727,1469,2023-08-04,Login Issue,1
+4728,1470,2022-02-18,Subscription Change,1
+4729,1470,2023-12-05,Login Issue,1
+4730,1470,2023-09-30,Payment Failure,3
+4731,1471,2024-07-19,Login Issue,5
+4732,1471,2023-09-04,Billing,10
+4733,1473,2022-07-07,Payment Failure,1
+4734,1474,2024-09-11,Payment Failure,1
+4735,1474,2023-09-10,Payment Failure,2
+4736,1475,2024-06-21,Payment Failure,7
+4737,1476,2022-09-27,Payment Failure,2
+4738,1476,2022-07-24,Login Issue,2
+4739,1477,2023-08-19,Billing,2
+4740,1477,2024-05-24,Login Issue,1
+4741,1477,2022-07-15,Subscription Change,2
+4742,1479,2023-11-03,Login Issue,3
+4743,1479,2024-08-01,Payment Failure,3
+4744,1481,2023-05-07,Login Issue,2
+4745,1484,2024-09-10,Subscription Change,5
+4746,1485,2024-05-02,Technical Problem,1
+4747,1485,2023-03-01,Subscription Change,1
+4748,1486,2024-06-13,Subscription Change,2
+4749,1488,2023-08-16,Billing,1
+4750,1488,2022-01-28,Subscription Change,2
+4751,1489,2023-02-27,Billing,2
+4752,1489,2023-06-13,Billing,2
+4753,1490,2024-04-21,Login Issue,1
+4754,1492,2024-12-25,Billing,2
+4755,1493,2023-09-29,Technical Problem,3
+4756,1494,2022-12-10,Payment Failure,3
+4757,1495,2023-07-25,Payment Failure,6
+4758,1495,2022-08-31,Technical Problem,5
+4759,1495,2023-06-16,Subscription Change,6
+4760,1496,2024-06-02,Payment Failure,2
+4761,1496,2022-03-20,Subscription Change,2
+4762,1497,2024-02-21,Payment Failure,3
+4763,1497,2024-09-27,Subscription Change,2
+4764,1497,2024-11-15,Payment Failure,1
+4765,1498,2024-12-03,Login Issue,1
+4766,1498,2024-10-08,Login Issue,3
+4767,1499,2023-08-24,Payment Failure,3
+4768,1500,2023-12-10,Technical Problem,3
